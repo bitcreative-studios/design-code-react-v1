@@ -68,5 +68,7 @@ yarn-error.log
 # Yarn Integrity file
 .yarn-integrity
 
+# Misc Files
 .idea
-
+schema.graphql
+schema.json
